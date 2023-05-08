@@ -13,8 +13,9 @@
 
 Rosetta Mark2는 KoreanRosetta의 2번째 버전입니다. mini는 한글과 영어를 동시에 Qwerty자판 기준으로 번역하여 줍니다. Big은 한글과 영어를 동시에 Qwerty자판 기준으로 번역해주며, only korean, only English를 지원합니다.
 
-처음 이용시 사용방법
 
-KoreanRoseta2023.zip를 다운로드 받습니다.
-KoreanRoseta2023.zip의 압축을 풉니다.
-KoreanRoseta2023.exe 파일을 찾아서 실행합니다.
+# 사용방법
+
+KoreanRosseta-main.zip를 다운로드 받습니다.
+KoreanRosseta-main.zip의 압축을 풉니다.
+KoreanRosseta-main\KoreanRosseta(2023)\dist\KoreanRosettaMk2\KoreanRosettaMk2.exe 를 실행시켜 사용합니다.
